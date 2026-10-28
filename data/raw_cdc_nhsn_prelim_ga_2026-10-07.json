@@ -1,0 +1,102 @@
+[
+  {
+    ":id": "row-fjms.xcff_q3tr",
+    ":version": "rv-8yyq-7r4j.f3gd",
+    ":created_at": "2026-10-07T14:53:05.010Z",
+    ":updated_at": "2026-10-07T14:53:05.010Z",
+    "weekendingdate": "2026-10-03T00:00:00.000",
+    "jurisdiction": "GA",
+    "totalconfflunewadm": "49.0",
+    "totalconfflunewadmperchosprep": "65.6300"
+  },
+  {
+    ":id": "row-h834-h35g_cqv4",
+    ":version": "rv-bpeq~7xi6.sb4m",
+    ":created_at": "2026-10-07T14:53:05.010Z",
+    ":updated_at": "2026-10-07T14:53:05.010Z",
+    "weekendingdate": "2026-09-26T00:00:00.000",
+    "jurisdiction": "GA",
+    "totalconfflunewadm": "30.0",
+    "totalconfflunewadmperchosprep": "71.2500"
+  },
+  {
+    ":id": "row-js7d_scq9.2yr4",
+    ":version": "rv-zgxj~cqsq~ej49",
+    ":created_at": "2026-10-07T14:53:05.010Z",
+    ":updated_at": "2026-10-07T14:53:05.010Z",
+    "weekendingdate": "2026-09-19T00:00:00.000",
+    "jurisdiction": "GA",
+    "totalconfflunewadm": "36.0",
+    "totalconfflunewadmperchosprep": "71.2500"
+  },
+  {
+    ":id": "row-38gq_4fug_dqxb",
+    ":version": "rv-4uck-nfyp.zwze",
+    ":created_at": "2026-10-07T14:53:05.010Z",
+    ":updated_at": "2026-10-07T14:53:05.010Z",
+    "weekendingdate": "2026-09-12T00:00:00.000",
+    "jurisdiction": "GA",
+    "totalconfflunewadm": "28.0",
+    "totalconfflunewadmperchosprep": "73.1300"
+  },
+  {
+    ":id": "row-3nmz-d9yz_qaw5",
+    ":version": "rv-6njb_i6wy~cbjs",
+    ":created_at": "2026-10-07T14:53:05.010Z",
+    ":updated_at": "2026-10-07T14:53:05.010Z",
+    "weekendingdate": "2026-09-05T00:00:00.000",
+    "jurisdiction": "GA",
+    "totalconfflunewadm": "25.0",
+    "totalconfflunewadmperchosprep": "73.1300"
+  },
+  {
+    ":id": "row-gh37.itza-dkfv",
+    ":version": "rv-ueag_xkgm-2p8w",
+    ":created_at": "2026-10-07T14:53:05.010Z",
+    ":updated_at": "2026-10-07T14:53:05.010Z",
+    "weekendingdate": "2026-08-29T00:00:00.000",
+    "jurisdiction": "GA",
+    "totalconfflunewadm": "18.0",
+    "totalconfflunewadmperchosprep": "75.6300"
+  },
+  {
+    ":id": "row-fbca.78x8_vnyf",
+    ":version": "rv-zxhw-vjq3~rnaa",
+    ":created_at": "2026-10-07T14:53:05.010Z",
+    ":updated_at": "2026-10-07T14:53:05.010Z",
+    "weekendingdate": "2026-08-22T00:00:00.000",
+    "jurisdiction": "GA",
+    "totalconfflunewadm": "11.0",
+    "totalconfflunewadmperchosprep": "75.6300"
+  },
+  {
+    ":id": "row-n2sy~75ne_53h4",
+    ":version": "rv-vca4_95d8-bjdt",
+    ":created_at": "2026-10-07T14:53:05.010Z",
+    ":updated_at": "2026-10-07T14:53:05.010Z",
+    "weekendingdate": "2026-08-15T00:00:00.000",
+    "jurisdiction": "GA",
+    "totalconfflunewadm": "14.0",
+    "totalconfflunewadmperchosprep": "75.6300"
+  },
+  {
+    ":id": "row-unxd~ghq6.kwsd",
+    ":version": "rv-ytme.bx44_kgt3",
+    ":created_at": "2026-10-07T14:53:05.010Z",
+    ":updated_at": "2026-10-07T14:53:05.010Z",
+    "weekendingdate": "2026-08-08T00:00:00.000",
+    "jurisdiction": "GA",
+    "totalconfflunewadm": "10.0",
+    "totalconfflunewadmperchosprep": "76.8800"
+  },
+  {
+    ":id": "row-vvjh-j6g3~pxxb",
+    ":version": "rv-yzv6_zsps~xmj8",
+    ":created_at": "2026-10-07T14:53:05.010Z",
+    ":updated_at": "2026-10-07T14:53:05.010Z",
+    "weekendingdate": "2026-08-01T00:00:00.000",
+    "jurisdiction": "GA",
+    "totalconfflunewadm": "6.0",
+    "totalconfflunewadmperchosprep": "77.500"
+  }
+]

@@ -1,0 +1,2 @@
+team_name,forecast_date,target_date,location,model_id,data_vintage,point,lower_50,upper_50,lower_80,upper_80,lower_95,upper_95
+Gibson_Carnes_Lutz,2026-10-12,2026-10-10,13,temperature_slr_v1,hw2_2026-09-09,101,0,254,0,392,0,548

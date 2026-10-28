@@ -1,0 +1,5 @@
+target_date,flusight_2026_09_30_prelim,cdc_prelim_2026_10_07,cdc_prelim_hosp_rep_pct,cdc_official_2026_10_09,cdc_official_hosp_rep_pct,point_unrounded,point_rounded,w95_unrounded,w95_clipped,eval_status,error_official,abs_error_official,error_unrounded_official,error_prelim_1007,abs_error_prelim_1007,hit_50,hit_80,hit_95
+2026-09-19,36.0,36.0,71.25,37.0,72.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2026-09-26,28.0,30.0,71.25,31.0,73.13,60.9269,61.0,893.1715,508.0,Evaluated (Official 2026-10-09 & Prelim 2026-10-07),30.0,30.0,29.9269,31.0,31.0,True,True,True
+2026-10-03,NA,49.0,65.63,52.0,70.63,71.452,71.0,892.9777,518.0,Evaluated (Official 2026-10-09 & Prelim 2026-10-07),19.0,19.0,19.452,22.0,22.0,True,True,True
+2026-10-10,NA,NA,NA,NA,NA,101.2729,101.0,892.542,548.0,Pending (Unreleased as of 2026-10-12; Prelim due 2026-10-14),NA,NA,NA,NA,NA,NA,NA,NA

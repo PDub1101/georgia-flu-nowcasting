@@ -1,0 +1,29 @@
+date,station_id,station_name,tmax_f,tmin_f,tmid_f,source,notes
+2026-09-13,USW00013874,Atlanta Hartsfield-Jackson Intl AP,90.0,72.0,81.0,NOAA NCEI Daily Summaries (USW00013874),Official GHCN-Daily
+2026-09-14,USW00013874,Atlanta Hartsfield-Jackson Intl AP,93.0,72.0,82.5,NOAA NCEI Daily Summaries (USW00013874),Official GHCN-Daily
+2026-09-15,USW00013874,Atlanta Hartsfield-Jackson Intl AP,90.0,75.0,82.5,NOAA NCEI Daily Summaries (USW00013874),Official GHCN-Daily
+2026-09-16,USW00013874,Atlanta Hartsfield-Jackson Intl AP,89.0,73.0,81.0,NOAA NCEI Daily Summaries (USW00013874),Official GHCN-Daily
+2026-09-17,USW00013874,Atlanta Hartsfield-Jackson Intl AP,90.0,69.0,79.5,NOAA NCEI Daily Summaries (USW00013874),Official GHCN-Daily
+2026-09-18,USW00013874,Atlanta Hartsfield-Jackson Intl AP,93.0,71.0,82.0,NOAA NCEI Daily Summaries (USW00013874),Official GHCN-Daily
+2026-09-19,USW00013874,Atlanta Hartsfield-Jackson Intl AP,92.0,71.0,81.5,NOAA NCEI Daily Summaries (USW00013874),Official GHCN-Daily
+2026-09-20,USW00013874,Atlanta Hartsfield-Jackson Intl AP,89.0,71.0,80.0,NOAA NCEI Daily Summaries (USW00013874),Official GHCN-Daily
+2026-09-21,USW00013874,Atlanta Hartsfield-Jackson Intl AP,90.0,71.0,80.5,NOAA NCEI Daily Summaries (USW00013874),Official GHCN-Daily
+2026-09-22,USW00013874,Atlanta Hartsfield-Jackson Intl AP,86.0,72.0,79.0,NOAA NCEI Daily Summaries (USW00013874),Official GHCN-Daily
+2026-09-23,USW00013874,Atlanta Hartsfield-Jackson Intl AP,82.0,67.0,74.5,NOAA NCEI Daily Summaries (USW00013874),Official GHCN-Daily
+2026-09-24,USW00013874,Atlanta Hartsfield-Jackson Intl AP,70.0,62.0,66.0,NOAA NCEI Daily Summaries (USW00013874),Official GHCN-Daily
+2026-09-25,USW00013874,Atlanta Hartsfield-Jackson Intl AP,77.0,60.0,68.5,NOAA NCEI Daily Summaries (USW00013874),Official GHCN-Daily
+2026-09-26,USW00013874,Atlanta Hartsfield-Jackson Intl AP,81.0,60.0,70.5,NOAA NCEI Daily Summaries (USW00013874),Official GHCN-Daily
+2026-09-27,USW00013874,Atlanta Hartsfield-Jackson Intl AP,81.0,55.0,68.0,NOAA NCEI Daily Summaries (USW00013874),Official GHCN-Daily
+2026-09-28,USW00013874,Atlanta Hartsfield-Jackson Intl AP,80.0,55.0,67.5,NOAA NCEI Daily Summaries (USW00013874),Official GHCN-Daily
+2026-09-29,USW00013874,Atlanta Hartsfield-Jackson Intl AP,84.0,60.0,72.0,NOAA NCEI Daily Summaries (USW00013874),Official GHCN-Daily
+2026-09-30,USW00013874,Atlanta Hartsfield-Jackson Intl AP,87.0,62.0,74.5,NOAA NCEI Daily Summaries (USW00013874),Official GHCN-Daily
+2026-10-01,USW00013874,Atlanta Hartsfield-Jackson Intl AP,86.0,65.0,75.5,NOAA NCEI Daily Summaries (USW00013874),Official GHCN-Daily
+2026-10-02,USW00013874,Atlanta Hartsfield-Jackson Intl AP,84.0,70.0,77.0,NOAA NCEI Daily Summaries (USW00013874),Official GHCN-Daily
+2026-10-03,USW00013874,Atlanta Hartsfield-Jackson Intl AP,86.0,70.0,78.0,NOAA NCEI Daily Summaries (USW00013874),Official GHCN-Daily
+2026-10-04,USW00013874,Atlanta Hartsfield-Jackson Intl AP,78.0,70.0,74.0,NOAA NCEI Daily Summaries (USW00013874),Official GHCN-Daily
+2026-10-05,USW00013874,Atlanta Hartsfield-Jackson Intl AP,76.0,67.0,71.5,NOAA NCEI Daily Summaries (USW00013874),Official GHCN-Daily
+2026-10-06,USW00013874,Atlanta Hartsfield-Jackson Intl AP,78.0,62.0,70.0,NOAA NCEI Daily Summaries (USW00013874),Official GHCN-Daily
+2026-10-07,USW00013874,Atlanta Hartsfield-Jackson Intl AP,80.0,59.0,69.5,NOAA NCEI Daily Summaries (USW00013874),Official GHCN-Daily
+2026-10-08,USW00013874,Atlanta Hartsfield-Jackson Intl AP,85.0,58.0,71.5,NOAA NCEI Daily Summaries (USW00013874),Official GHCN-Daily
+2026-10-09,USW00013874,Atlanta Hartsfield-Jackson Intl AP,73.0,61.0,67.0,NOAA NCEI Daily Summaries (USW00013874),Official GHCN-Daily
+2026-10-10,USW00013874,Atlanta Hartsfield-Jackson Intl AP,68.0,59.0,63.5,NWS Peachtree City (KFFC) CF6ATL Verified Report,Verified surface observation (NOAA NCEI 1-2 day publication lag)

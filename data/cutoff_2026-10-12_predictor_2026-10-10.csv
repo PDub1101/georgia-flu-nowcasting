@@ -1,0 +1,8 @@
+date,day_of_week,week_end,station,tavg_f,tmax_f,tmin_f,daily_temp_f,calc_method,release_status
+2026-10-04,Sunday,2026-10-10,USW00013874,NA,78.0,70.0,74.0,(TMAX+TMIN)/2,Released in NOAA NCEI GHCN-Daily
+2026-10-05,Monday,2026-10-10,USW00013874,NA,76.0,67.0,71.5,(TMAX+TMIN)/2,Released in NOAA NCEI GHCN-Daily
+2026-10-06,Tuesday,2026-10-10,USW00013874,NA,78.0,62.0,70.0,(TMAX+TMIN)/2,Released in NOAA NCEI GHCN-Daily
+2026-10-07,Wednesday,2026-10-10,USW00013874,NA,80.0,59.0,69.5,(TMAX+TMIN)/2,Released in NOAA NCEI GHCN-Daily
+2026-10-08,Thursday,2026-10-10,USW00013874,NA,85.0,58.0,71.5,(TMAX+TMIN)/2,Released in NOAA NCEI GHCN-Daily
+2026-10-09,Friday,2026-10-10,USW00013874,NA,73.0,61.0,67.0,(TMAX+TMIN)/2,Released in NOAA NCEI GHCN-Daily
+2026-10-10,Saturday,2026-10-10,USW00013874,NA,NA,NA,NA,NA (Unreleased),Unreleased at Retrieval (NCEI 2-3d Lag)

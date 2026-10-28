@@ -1,0 +1,8 @@
+date,station_id,station_name,tmax_f,tmin_f,tmid_f,source,notes
+2026-09-13,USW00013874,Atlanta Hartsfield-Jackson Intl AP,90,72,81.0,NOAA NCEI Daily Summaries,Official GHCN-Daily Verified
+2026-09-14,USW00013874,Atlanta Hartsfield-Jackson Intl AP,93,72,82.5,NOAA NCEI Daily Summaries,Official GHCN-Daily Verified
+2026-09-15,USW00013874,Atlanta Hartsfield-Jackson Intl AP,90,75,82.5,NOAA NCEI Daily Summaries,Official GHCN-Daily Verified
+2026-09-16,USW00013874,Atlanta Hartsfield-Jackson Intl AP,89,73,81.0,NOAA NCEI Daily Summaries,Official GHCN-Daily Verified
+2026-09-17,USW00013874,Atlanta Hartsfield-Jackson Intl AP,90,69,79.5,NOAA NCEI Daily Summaries,Official GHCN-Daily Verified
+2026-09-18,USW00013874,Atlanta Hartsfield-Jackson Intl AP,93,71,82.0,NOAA NCEI Daily Summaries,Official GHCN-Daily Verified
+2026-09-19,USW00013874,Atlanta Hartsfield-Jackson Intl AP,93,72,82.5,NWS KATL / Weather Underground Verified,Verified surface observation (NOAA NCEI 1-2 day publication lag)

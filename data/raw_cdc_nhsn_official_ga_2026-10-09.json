@@ -1,0 +1,102 @@
+[
+  {
+    ":id": "row-dhn9_k9hr.brg5",
+    ":version": "rv-u9k5_jivw-eu92",
+    ":created_at": "2026-10-09T14:07:27.473Z",
+    ":updated_at": "2026-10-09T14:07:27.473Z",
+    "weekendingdate": "2026-10-03T00:00:00.000",
+    "jurisdiction": "GA",
+    "totalconfflunewadm": "52.0",
+    "totalconfflunewadmperchosprep": "70.63"
+  },
+  {
+    ":id": "row-cj9y_xp2m_pjuu",
+    ":version": "rv-dns7_6fhn-rrgy",
+    ":created_at": "2026-10-09T14:07:27.473Z",
+    ":updated_at": "2026-10-09T14:07:27.473Z",
+    "weekendingdate": "2026-09-26T00:00:00.000",
+    "jurisdiction": "GA",
+    "totalconfflunewadm": "31.0",
+    "totalconfflunewadmperchosprep": "73.13"
+  },
+  {
+    ":id": "row-wyqq~q99x.7pg5",
+    ":version": "rv-87n7.4738.nnq6",
+    ":created_at": "2026-10-09T14:07:27.473Z",
+    ":updated_at": "2026-10-09T14:07:27.473Z",
+    "weekendingdate": "2026-09-19T00:00:00.000",
+    "jurisdiction": "GA",
+    "totalconfflunewadm": "37.0",
+    "totalconfflunewadmperchosprep": "72.5"
+  },
+  {
+    ":id": "row-3mub~txcv.iapd",
+    ":version": "rv-zuv4.t3ug.2d6d",
+    ":created_at": "2026-10-09T14:07:27.473Z",
+    ":updated_at": "2026-10-09T14:07:27.473Z",
+    "weekendingdate": "2026-09-12T00:00:00.000",
+    "jurisdiction": "GA",
+    "totalconfflunewadm": "28.0",
+    "totalconfflunewadmperchosprep": "74.38"
+  },
+  {
+    ":id": "row-f2uf.sd4j-76dj",
+    ":version": "rv-re8j-3g9i-d7hd",
+    ":created_at": "2026-10-09T14:07:27.473Z",
+    ":updated_at": "2026-10-09T14:07:27.473Z",
+    "weekendingdate": "2026-09-05T00:00:00.000",
+    "jurisdiction": "GA",
+    "totalconfflunewadm": "25.0",
+    "totalconfflunewadmperchosprep": "73.75"
+  },
+  {
+    ":id": "row-qyhp.e3q3-s33d",
+    ":version": "rv-7tqm-si87_7tfq",
+    ":created_at": "2026-10-09T14:07:27.473Z",
+    ":updated_at": "2026-10-09T14:07:27.473Z",
+    "weekendingdate": "2026-08-29T00:00:00.000",
+    "jurisdiction": "GA",
+    "totalconfflunewadm": "18.0",
+    "totalconfflunewadmperchosprep": "76.25"
+  },
+  {
+    ":id": "row-74rc_qydx-4gtm",
+    ":version": "rv-zq2b.md8f-whbe",
+    ":created_at": "2026-10-09T14:07:27.473Z",
+    ":updated_at": "2026-10-09T14:07:27.473Z",
+    "weekendingdate": "2026-08-22T00:00:00.000",
+    "jurisdiction": "GA",
+    "totalconfflunewadm": "11.0",
+    "totalconfflunewadmperchosprep": "76.25"
+  },
+  {
+    ":id": "row-wezu_h6wx-kh9n",
+    ":version": "rv-dwk6-itbk_bgvt",
+    ":created_at": "2026-10-09T14:07:27.473Z",
+    ":updated_at": "2026-10-09T14:07:27.473Z",
+    "weekendingdate": "2026-08-15T00:00:00.000",
+    "jurisdiction": "GA",
+    "totalconfflunewadm": "14.0",
+    "totalconfflunewadmperchosprep": "76.25"
+  },
+  {
+    ":id": "row-dbga~zrhh.ikt8",
+    ":version": "rv-5kus.ggk7~qwgh",
+    ":created_at": "2026-10-09T14:07:27.473Z",
+    ":updated_at": "2026-10-09T14:07:27.473Z",
+    "weekendingdate": "2026-08-08T00:00:00.000",
+    "jurisdiction": "GA",
+    "totalconfflunewadm": "10.0",
+    "totalconfflunewadmperchosprep": "78.13"
+  },
+  {
+    ":id": "row-6v5t.r46s_nsaf",
+    ":version": "rv-2ds8-y5ri-nrzt",
+    ":created_at": "2026-10-09T14:07:27.473Z",
+    ":updated_at": "2026-10-09T14:07:27.473Z",
+    "weekendingdate": "2026-08-01T00:00:00.000",
+    "jurisdiction": "GA",
+    "totalconfflunewadm": "6.0",
+    "totalconfflunewadmperchosprep": "78.13"
+  }
+]

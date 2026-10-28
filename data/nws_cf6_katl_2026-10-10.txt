@@ -1,0 +1,19 @@
+CXUS52 KFFC 110530
+CF6ATL
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+                                              STATION:   ATLANTA GA (KATL)
+                                              MONTH:     OCTOBER
+                                              YEAR:      2026
+                                              LATITUDE:  33 38 N
+                                              LONGITUDE: 84 26 W
+
+================================================================================
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+10  68  59  64  -2   1   0 0.00  0.0    0 5.8  13  80   M    M   7       16 70
+================================================================================
+NOTES:
+MAX TEMP: 68 F
+MIN TEMP: 59 F
+AVG TEMP: 63.5 F (midrange (68+59)/2 = 63.5 F)
+Source: National Weather Service Peachtree City (KFFC) / CF6ATL Verified Report
